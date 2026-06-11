@@ -1,0 +1,27 @@
+# Frontend
+frontend/node_modules/
+frontend/build/
+
+# Backend
+backend/target/
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# IntelliJ
+.idea/
+
+# VS Code
+.vscode/
+
+# Shortcuts
+*.lnk
+
+# Logs
+*.log
+
+# OS files
+Thumbs.db
+.DS_Store
