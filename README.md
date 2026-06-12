@@ -1,6 +1,47 @@
 # ProjectMS — Smart Project Management System
 
 ## Quick Start
+# AI-Driven Smart Project Management System
+
+An intelligent full-stack project management platform built using React, Spring Boot, MongoDB, and Python-based AI modules. The system streamlines project planning, task management, milestone tracking, team collaboration, and project monitoring while providing AI-powered project insights, risk analysis, recommendations, and roadmap generation.
+
+## Key Features
+
+* Role-Based Access Control (Admin, HR, Project Manager, Employee)
+* Project Creation & Management
+* Task Assignment & Progress Tracking
+* Milestone Planning
+* Team Management
+* Real-Time Dashboard Analytics
+* AI-Powered Document Analysis
+* Project Risk Assessment
+* Automated Recommendations
+* AI-Generated Project Roadmaps
+
+## Technology Stack
+
+### Frontend
+
+* React.js
+* JavaScript
+* Tailwind CSS
+
+### Backend
+
+* Spring Boot
+* Java
+* REST APIs
+
+### Database
+
+* MongoDB
+
+### AI & Analytics
+
+* Python
+* Machine Learning Libraries
+* Document Processing Modules
+
 
 ### Backend (Spring Boot)
 ```bash
